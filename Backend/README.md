@@ -3,111 +3,55 @@
 
 ## Task 2. Swagger codegen.
 
-![Swagger Home](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/swagger/swagger-home-page.png)
-
-![Swagger ](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/swagger/list-all-api.png)
-
-![Swagger ](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/swagger/get-all.png)
-
-![Swagger ](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/swagger/get-by-id.png)
-
-![Swagger ](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/swagger/get-by-name.png)
-
-![Swagger](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/swagger/post-data.png)
-
-![Swagger ](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/swagger/put-data.png)
-
-![Swagger](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/swagger/delete-data.png)
-
-## Task 3. Kubernetes
-
-### Kubernet Project Stracture
-
-![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/kubernet/project-dir.png)
-
-### Docker File
-![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/kubernet/Dockerfile.png)
-
-### Build Project on Docker
-
-![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/kubernet/kubernet/project-dir.png)
+### Project Structure:
 
 
-![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/kubernet/docker-build.png)
-
-### Dockerhub
-
-![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/kubernet/docker-hub.png)
-
-### Dockerhub
-
-![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/kubernet/doker-hub.png)
-
-## Task 4. WEB UI Forms.
-
-### Home Page
-
-![Home](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/frontend/home.png)
-
-### Create Server Page
-
-![Create](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/frontend/create.png)
-
-### Update Server Page
-
-![Update](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/frontend/update.png)
-
-### View Server Page
-
-![View](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/frontend/view.png)
+![Screenshot_20221123_170354](https://user-images.githubusercontent.com/82948471/203540281-878eb27c-2f43-45e7-bcd5-e0fb87df920a.png)
 
 
-## Task 5. CI-CD Pipeline
+#### -> Home pages of swagger-ui:
 
-#### Project Stracture
+![image](https://user-images.githubusercontent.com/82948471/203542521-9fb5b89b-7189-4991-8788-57f73c813eb2.png)
 
 
-![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/cicdpipeline/cicdpiline-project-dir.png)
+#### -> List of all api of rest example:
 
-#### Docker File
+![image](https://user-images.githubusercontent.com/82948471/203542775-a224d36f-0dd8-41b1-976f-7e1e7ca05bb9.png)
 
-![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/cicdpipeline/Dokerfile.png)
 
-#### Github Repo
+#### -> Get all server object
 
-![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/cicdpipeline/repo.png)
+![image](https://user-images.githubusercontent.com/82948471/203543519-613c1f86-762a-47d8-91d8-466c9d41fe15.png)
 
-#### Maven.yml file
 
-![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/cicdpipeline/maven.yml.png)
+#### -> Create new server 
 
-#### Building
+![image](https://user-images.githubusercontent.com/82948471/203543808-67497336-9654-4f06-a729-20136c87bdfd.png)
 
-![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/cicdpipeline/build-cicdpipeline.png)
+#### -> Get server by server id
 
-#### Build Success
+![image](https://user-images.githubusercontent.com/82948471/203544209-8fc84160-e8af-4360-8744-e14b078132ef.png)
 
-![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/cicdpipeline/success.png)
+#### -> Update old  server 
 
-#### Docker Build
-![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/cicdpipeline/docker-build.png)
+![image](https://user-images.githubusercontent.com/82948471/203544361-8de94623-d4ef-48f3-806c-7eac4d8eba97.png)
 
-#### Docker Success
+#### -> Delete server object
 
-![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/cicdpipeline/docker-succes.png)
+![image](https://user-images.githubusercontent.com/82948471/203544498-6adad914-1c0c-4440-8420-202ec43d897e.png)
 
-#### Deployed on Dockerhub
+#### -> Get server by server name
 
-![](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/cicdpipeline/docker-hubs.png)
+![image](https://user-images.githubusercontent.com/82948471/203544629-ed5e8e22-5070-4cb8-b9a9-072b4c6f7144.png)
 
 
 
-## Authors
+### Authors
 
 - [@Harendra84](https://github.com/Harendra84)
 
 
-## Demo
+### Demo
 
 ### https://hub.docker.com/repositories
 
