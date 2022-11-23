@@ -5,9 +5,7 @@
 
 ### Project Structure:
 
-
-![Screenshot_20221123_170354](https://user-images.githubusercontent.com/82948471/203540281-878eb27c-2f43-45e7-bcd5-e0fb87df920a.png)
-
+![image](https://user-images.githubusercontent.com/82948471/203550265-1a6f4711-b6f5-4eb1-9f69-b1abee4cf60b.png)
 
 #### -> Home pages of swagger-ui:
 
